@@ -4,4 +4,4 @@ Projeto __React Testing Library__ desenvolvido no módulo de __Front-End da Tryb
 
 Clique [aqui](https://project-react-testing-library-eta.vercel.app/) para ver a aplicação.
 
-Para rodar os testes rode o comando: `npm test`.
+Para rodar os testes use o comando: `npm test`.
